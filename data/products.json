@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "remera  lobo bobo",
+    "description": "remera estampada premium",
+    "code": "LOBO001",
+    "price": 80000,
+    "status": true,
+    "stock": 8,
+    "category": "Remeras",
+    "thumbnails": [
+      "https://res.cloudinary.com/dcvelgyvu/image/upload/v1739240035/frentemisfit2.0_Lobo_bobo_uuhf7n.webp"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "buzo Stay Cold Apparel",
+    "description": "buzo estampado estilo washed",
+    "code": "STCA002",
+    "price": 120000,
+    "status": true,
+    "stock": 8,
+    "category": "Abrigos",
+    "thumbnails": [
+      "https://res.cloudinary.com/dcvelgyvu/image/upload/v1742253606/Stay_Cold_Apparel_hoddie_ay50mp.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "pantalon DropDead",
+    "description": "Pantalon de algodon estampado",
+    "code": "PADD003",
+    "price": 100000,
+    "status": true,
+    "stock": 11,
+    "category": "Pantalones",
+    "thumbnails": [
+      "https://res.cloudinary.com/dcvelgyvu/image/upload/v1742254018/pantalon_dropdead_xomwtb.png"
+    ]
+  }
+]
